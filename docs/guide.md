@@ -30,19 +30,19 @@ _Цены для примерного понимания (от 17 июля 2025 
 | SpaceWeb   | от 2 664 ₽                | во всех тарифах | приобретается отдельно |
 
 [Тарифы Beget](https://beget.com/ru/hosting/virtual#virtual-plans-list)
-![Beget](image.png)
+![Beget](./image.png)
 
 [Тарифы REG.RU](https://www.reg.ru/hosting/?tariff=econom)
-![REG.RU](image-1.png)
+![REG.RU](./image-1.png)
 
 [Тарифы Timeweb](https://timeweb.com/ru/services/hosting/)
-![Timeweb](image-2.png)
+![Timeweb](./image-2.png)
 
 [Тарифы Sprinthost](https://sprinthost.ru/)
-![Sprinthost](image-3.png)
+![Sprinthost](./image-3.png)
 
 [Тарифы Sweb](https://sweb.ru/)
-![Sweb](image-4.png)
+![Sweb](./image-4.png)
 
 ## Хотите форму для заявок на сайт?
 

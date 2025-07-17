@@ -6,7 +6,7 @@ export default defineUserConfig({
   lang: "ru-RU",
   title: "Руководство",
   description: "Для клиентов веб-студии",
-
+  base: "/land-docs/",
   theme: defaultTheme({
     logo: "./ariadna.svg",
     navbar: ["/", "/guide"],

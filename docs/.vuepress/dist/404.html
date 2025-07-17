@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ru-RU">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.24" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const useChoice = localStorage.getItem('vuepress-color-scheme')
+      const systemStatus =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (useChoice === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (useChoice === 'dark' || systemStatus) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>Руководство</title><meta name="description" content="Для клиентов веб-студии">
+    <link rel="preload" href="/land-docs/assets/style-C2JCxPSn.css" as="style"><link rel="stylesheet" href="/land-docs/assets/style-C2JCxPSn.css">
+    <link rel="modulepreload" href="/land-docs/assets/app-IUAqc8xy.js"><link rel="modulepreload" href="/land-docs/assets/404.html-Ym6MDdpF.js">
+    <link rel="prefetch" href="/land-docs/assets/index.html-C03M4kpb.js" as="script"><link rel="prefetch" href="/land-docs/assets/guide.html-COgL213-.js" as="script"><link rel="prefetch" href="/land-docs/assets/hostings-table.html-6wNqP68V.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-33d3430e><main class="page" data-v-33d3430e><div vp-content data-v-33d3430e><h1 data-v-33d3430e>404</h1><blockquote data-v-33d3430e>There&#39;s nothing here.</blockquote><a class="route-link" href="/land-docs/" data-v-33d3430e>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/land-docs/assets/app-IUAqc8xy.js" defer></script>
+  </body>
+</html>

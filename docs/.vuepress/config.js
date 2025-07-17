@@ -8,7 +8,7 @@ export default defineUserConfig({
   description: "Для клиентов веб-студии",
   base: "/land-docs/",
   theme: defaultTheme({
-    logo: "./ariadna.svg",
+    logo: "ariadna.svg",
     navbar: ["/", "/guide"],
   }),
 

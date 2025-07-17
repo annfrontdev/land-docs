@@ -1,7 +1,7 @@
 ---
 home: true
 title: Главная
-heroImage: ./ariadna.svg
+heroImage: ariadna.svg
 
 actions:
   - text: В руководство

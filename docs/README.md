@@ -1,9 +1,10 @@
----
-home: true
-title: Главная
-heroImage: ariadna.svg
+# Документация для клиентов студии 
 
-actions:
-  - text: В руководство
-    link: /guide.html
-    type: primary
+Доступна онлайн по этой ссылке [ТЫК](https://annfrontdev.github.io/land-docs/)
+
+### В Документации предоставлены:
+- Описание этапов работы с клиентом
+- Данные о выгодах разных хостингов
+- Советы/юридическая информация
+
+![ariadna](./.vuepress/public/ariadna.svg)
